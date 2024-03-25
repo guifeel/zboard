@@ -24,7 +24,7 @@ const Savings = () => {
                 </div>
                 <div className="grid-item-top-r">
                   <span className="text-silver-v1">
-                    $ {saving.saving_amount}
+                    ￥ {saving.saving_amount}
                   </span>
                 </div>
               </div>

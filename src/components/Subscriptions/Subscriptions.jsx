@@ -24,7 +24,7 @@ const Subscriptions = () => {
                 </p>
               </div>
               <div className="grid-item-r">
-                <span className="text-silver-v1">$ {subscription.amount}</span>
+                <span className="text-silver-v1">￥ {subscription.amount}</span>
               </div>
             </div>
           ))}

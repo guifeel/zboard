@@ -28,7 +28,7 @@ const Budget = () => {
                 </p>
               </div>
               <div className="grid-item-r">
-                <span className="text-silver-v1">$ {budget.amount}</span>
+                <span className="text-silver-v1">￥ {budget.amount}</span>
               </div>
             </div>
           ))}
